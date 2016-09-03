@@ -1,0 +1,15 @@
+{
+    "name": "grant.sitez-theme",
+    "title": "SITEZ Brackets Theme",
+    "description": "A dark theme with nice neon colors to keep you going at night",
+    "homepage": "https://github.com/grant-redmond/SITEZ-theme",
+    "version": "1.0.0",
+    "author": "Grant Redmond <grant@sitezwebdesign.com> (http://www.sitezwebdesign.com)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true,
+    },
+    "keywords": ["sitez","brackets","theme","dark","neon","night"]
+}
